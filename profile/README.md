@@ -53,4 +53,5 @@ Modules add features without making the core heavier. Official modules are free 
 - Report a bug or suggest a feature in [InvoiceShelf's issues](https://github.com/InvoiceShelf/InvoiceShelf/issues).
 - Translate InvoiceShelf into your language at [translate.invoiceshelf.com](https://translate.invoiceshelf.com).
 - Ask questions and share what you are building on [Discord](https://discord.gg/eHXf4zWhsR).
+- Help fund its maintenance through [GitHub Sponsors](https://github.com/sponsors/InvoiceShelf). It is optional, and InvoiceShelf stays free either way.
 - Found a security problem? Report it privately through a [security advisory](https://github.com/InvoiceShelf/InvoiceShelf/security/advisories/new), not in a public issue.
